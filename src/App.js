@@ -12,7 +12,7 @@ function App() {
 
   useEffect(() =>{
     const fetchArticles = async () =>{
-      let url = 'https://api.nytimes.com/svc/search/v2/articlesearch.json?api-key=kQgtCN8cxMaKlE64VM3TmCjPnGvTeUi5';
+      let url = `https://api.nytimes.com/svc/search/v2/articlesearch.json?api-key=${process.env.REACT_APP_API_KEY}`;
       if(query !== ''){
         url+= `&q=+{query}`;
       }
