@@ -1,0 +1,208 @@
+repo_name: achrefbenmehrez/e-newspaper
+report_id: 026d2bc4a7493e9832587448223b1535
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-14T18:35:04+00:00'
+requested_by: achrefbenmehrez
+provider: github
+branch: master
+detected_tools_count: 15
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/achrefbenmehrez/e-newspaper
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/achrefbenmehrez/e-newspaper
+  detection_source: Repo Metadata
+- name: Material-UI
+  description: Material UI is a library of React UI components that implements Google's
+    Material Design.
+  website_url: https://github.com/mui/material-ui
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1904/default_44d81cb9fadbc3688b7e91a6d5217d0ea5358b57.png
+  detection_source_url: https://github.com/achrefbenmehrez/e-newspaper/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: achrefbenmehrez
+  last_updated_on: 2020-12-04 14:25:32.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 17.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/achrefbenmehrez/e-newspaper/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: achrefbenmehrez
+  last_updated_on: 2020-12-04 14:25:32.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/achrefbenmehrez/e-newspaper/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: achrefbenmehrez
+  last_updated_on: 2020-12-04 14:25:32.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/achrefbenmehrez/e-newspaper
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/achrefbenmehrez/e-newspaper/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: achrefbenmehrez
+  last_updated_on: 2020-12-04 14:25:32.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.21.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/achrefbenmehrez/e-newspaper/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: achrefbenmehrez
+  last_updated_on: 2020-12-04 14:25:32.000000000 Z
+- name: "@material-ui/core"
+  description: React components that implement Google's Material Design
+  package_url: https://www.npmjs.com/@material-ui/core
+  version: 4.11.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16271/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
+  detection_source_url: https://github.com/achrefbenmehrez/e-newspaper/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: achrefbenmehrez
+  last_updated_on: 2020-12-04 14:25:32.000000000 Z
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 5.11.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/achrefbenmehrez/e-newspaper/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: achrefbenmehrez
+  last_updated_on: 2020-12-04 14:25:32.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 11.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/achrefbenmehrez/e-newspaper/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: achrefbenmehrez
+  last_updated_on: 2020-12-04 14:25:32.000000000 Z
+- name: cors
+  description: Node.js CORS middleware
+  package_url: https://www.npmjs.com/cors
+  version: 2.8.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16165/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/achrefbenmehrez/e-newspaper/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: achrefbenmehrez
+  last_updated_on: 2020-12-04 14:25:32.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 17.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/achrefbenmehrez/e-newspaper/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: achrefbenmehrez
+  last_updated_on: 2020-12-04 14:25:32.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/achrefbenmehrez/e-newspaper/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: achrefbenmehrez
+  last_updated_on: 2020-12-04 14:25:32.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/achrefbenmehrez/e-newspaper/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: achrefbenmehrez
+  last_updated_on: 2020-12-04 14:25:32.000000000 Z
